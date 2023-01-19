@@ -5,6 +5,8 @@ Complete Dyanmic Weather weabsite fetch real-time updates using openweather api.
 
 In the project directory, you can run:
 
+### `npm init`
+
 ### `npm src/app.js -e js,hbs`
 
 Runs the app in the development mode.\
